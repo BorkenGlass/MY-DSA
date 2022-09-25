@@ -1,3 +1,8 @@
+//Author:- Md.Rafayet Hossen
+//BSCSE 223 UIU
+//MY DSA code
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
